@@ -18,8 +18,8 @@ I am a final-year Computer Science student at Kabarak University. My technical f
 **The Solution:** Unified journaling, habit tracking, and task management to solve the "learning-action" gap.
 **Stack:** React, Laravel, Gemini API, MySQL.
 
-###  [University Lost & Found](https://github.com/kirrer-izo/Lost-and-Found-System) | Backend API Developer
-*A collaborative project to centralize property recovery at Kabarak University.*
+###  [Lost & Found](https://github.com/kirrer-izo/Lost-and-Found-System) | Backend API Developer
+*A collaborative project to centralize property recovery.*
 **Role:** Developed **RESTful API** and managed secure user sessions.
 **Security:** Implemented token-base authentication (Laravel Sanctum) for secure reporting of lost items.
 **Stack:** PHP (Laravel), REST API, MySQL.
@@ -28,10 +28,10 @@ I am a final-year Computer Science student at Kabarak University. My technical f
 *When I'm not coding, I'm a high-engery video editor specializing in sports content.*
 **Tools:** Adobe After Effects, Topaz, Handbrake.
 **Focus:** Motion graphics and dynamic transistions for TikTok edits. 
-📱 [Check out my edits on TikTok] https://www.tiktok.com/@city_._
+ [Check out my edits on TikTok] https://www.tiktok.com/@city_._
 
 ###  Technical Toolbox
-**Backend:** PHP (Laravel), REST APIs, MySQL, Java (Current Focus📚)
+**Backend:** PHP (Laravel), REST APIs, MySQL, Java (Current Focus)
 **Frontend:** React, JavaScript, Tailwind CSS.
 **AI/Tools:** Gemini API Integration, Git, Postman, Docker
 

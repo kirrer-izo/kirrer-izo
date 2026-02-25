@@ -6,7 +6,6 @@
 I am a final-year Computer Science student at Kabarak University. My technical focus is on building high-perfomance backend systems and intergrating modern AI to solve user-centric problems. Currently, I am expanding my engineering depth by mastering Java Data Structures & Algorithms.
 
 **Education:** B.Sc. in Computer Science (Final Year).
-**Current Focus:** Transitioning form Laravel/React to **Enterprise Java (Spring Boot)**.
 **Fullstack Expertise:** Skilled in building RESTful architectures and AI-intergrated web apps.
 
 
